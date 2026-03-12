@@ -17,5 +17,5 @@ Welcome to AgaeSMO's documentation!
    source/Tutorials_ST_HE_downstream
    source/Tutorials_paired_modality
 
-.. image:: figures/architecture.png
+.. image:: architecture.png
 
