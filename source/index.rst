@@ -11,6 +11,7 @@ Welcome to AgaeSMO's documentation!
    :caption: Contents:
 
    Installation
+   Tutorials_rectification
    Tutorials_ST_SM
    Tutorials_ST_SM_downstream
    Tutorials_ST_HE
